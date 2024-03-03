@@ -1,2 +1,2 @@
-# ML_Progress_Log
+# ML_Stuff
 Just a progress log in my learning journey
